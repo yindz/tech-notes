@@ -127,11 +127,13 @@ Description: Objects.equals
 
 Template text:
 ```
-if (Objects.equals(, $END$)) {
+if (Objects.equals($SELECTION$, $END$)) {
     
 }
 ```
 Applicable in: Java>statement
+
+注: 选中相应变量后通过 ctrl + alt + j 快捷键触发
 
 ### 集合判空
 Abbreviation: ce
@@ -140,11 +142,13 @@ Description: CollectionUtils.isEmpty
 
 Template text:
 ```
-if (CollectionUtils.isEmpty($END$)) {
+if (CollectionUtils.isEmpty($SELECTION$)) {
 
 }
 ```
 Applicable in: Java>statement
+
+注: 选中相应变量后通过 ctrl + alt + j 快捷键触发
 
 ### 字符串判空
 Abbreviation: nb
@@ -153,11 +157,13 @@ Description: StringUtils.isNotBlank
 
 Template text:
 ```
-if (StringUtils.isNotBlank($END$)) {
+if (StringUtils.isNotBlank($SELECTION$)) {
             
 }
 ```
 Applicable in: Java>statement
+
+注: 选中相应变量后通过 ctrl + alt + j 快捷键触发
 
 ## 日志记录
 ### 声明
