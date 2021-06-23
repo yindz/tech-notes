@@ -120,6 +120,19 @@ Set<$END$> set = new HashSet<>();
 Applicable in: Java>statement
 
 ## 逻辑判断
+### 对象判断
+Abbreviation: eqs
+
+Description: Objects.equals
+
+Template text:
+```
+if (Objects.equals(, $END$)) {
+    
+}
+```
+Applicable in: Java>statement
+
 ### 集合判空
 Abbreviation: ce
 
