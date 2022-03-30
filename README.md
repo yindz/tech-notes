@@ -173,41 +173,43 @@ Description: private static final Logger
 
 Template text:
 ```
-private static final Logger logger = LoggerFactory.getLogger($CLASS_NAME$.class);
+private static final Logger log = LoggerFactory.getLogger($CLASS_NAME$.class);
 ```
 Applicable in: Java>declaration
 
-### info
-Abbreviation: info
+Edit Variables-> Name: CLASS_NAME  Expression: className()
 
-Description: logger.info
+### info
+Abbreviation: lgi
+
+Description: log.info
 
 Template text:
 ```
-logger.info("", $END$);
+log.info("", $END$);
 ```
 Applicable in: Java>statement
 
 
 ### error
-Abbreviation: error
+Abbreviation: lge
 
-Description: logger.error
+Description: log.error
 
 Template text:
 ```
-logger.error("", $END$);
+log.error("", $END$);
 ```
 Applicable in: Java>statement
 
 ### warn
-Abbreviation: warn
+Abbreviation: lgw
 
-Description: logger.warn
+Description: log.warn
 
 Template text:
 ```
-logger.warn("", $END$);
+log.warn("", $END$);
 ```
 Applicable in: Java>statement
 
