@@ -246,3 +246,16 @@ Template text:
 Preconditions.checkArgument($END$, "");
 ```
 Applicable in: Java>statement
+
+### FutureTask
+Abbreviation: fut
+
+Description: new FutureTask
+
+Template text:
+```
+FutureTask<$END$> xxxTask = new FutureTask<>(() -> {
+            
+});
+```
+Applicable in: Java>statement
