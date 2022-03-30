@@ -259,3 +259,16 @@ FutureTask<$END$> xxxTask = new FutureTask<>(() -> {
 });
 ```
 Applicable in: Java>statement
+
+### Optional isPresent
+Abbreviation: isp
+
+Description: Optional isPresent
+
+Template text:
+```
+if ($END$.isPresent()) {
+
+}
+```
+Applicable in: Java>statement
