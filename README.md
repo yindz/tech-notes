@@ -235,3 +235,14 @@ Template text:
 String.format("", $END$);
 ```
 Applicable in: Java>statement
+
+### 参数校验
+Abbreviation: prec
+
+Description: Preconditions.checkArgument
+
+Template text:
+```
+Preconditions.checkArgument($END$, "");
+```
+Applicable in: Java>statement
