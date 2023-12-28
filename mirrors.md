@@ -1,8 +1,5 @@
 # 开源镜像分类汇总
-[操作系统](#操作系统)
-[Docker](#Docker)
-[Maven](#Maven)
-[OpenJDK](#OpenJDK)
+[操作系统](#操作系统) | [Docker](#Docker) | [Maven](#Maven) | [OpenJDK](#OpenJDK) |
 
 ## Docker
 ### DockerCE
