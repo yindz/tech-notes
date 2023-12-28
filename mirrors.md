@@ -32,6 +32,13 @@
 | 中科院软件所镜像站 | https://mirror.iscas.ac.cn/mirror/docker.html | |
 
 ## Maven
+### Binary
+| 名称 | URL | 备注 |
+| -- | -- | -- |
+| 阿里云 | https://mirrors.aliyun.com/apache/maven/maven-3/ | |
+| 华为云 | https://mirrors.huaweicloud.com/apache/maven/maven-3/ | |
+
+### 软件仓库
 | 名称 | URL | 备注 |
 | -- | -- | -- |
 | 阿里云 | https://maven.aliyun.com/ | |
@@ -83,7 +90,7 @@
 | 华为云 | https://mirrors.huaweicloud.com/node-sass/ | node-sass |
 
 ## python
-### 安装包
+### Binary
 | 名称 | URL | 备注 |
 | -- | -- | -- |
 | npmmirror | https://registry.npmmirror.com/binary.html?path=python/ |  |
@@ -99,6 +106,7 @@
 | 上海交通大学 | https://mirror.sjtu.edu.cn/docs/pypi/web/simple |  |
 | 网易云 | https://mirrors.163.com/.help/pypi.html |  |
 | 腾讯云 | https://mirrors.cloud.tencent.com/help/pypi.html |  |
+| 阿里云 | https://developer.aliyun.com/mirror/pypi | |
 
 ## 操作系统
 ### CentOS
