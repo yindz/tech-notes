@@ -1,7 +1,11 @@
 # 开源镜像分类汇总
+[操作系统](#操作系统)
+[Docker](#Docker)
+[Maven](#Maven)
+[OpenJDK](#OpenJDK)
 
-
-## Docker CE
+## Docker
+### DockerCE
 | 名称 | URL | 备注 |
 | -- | -- | -- |
 | 重庆邮电大学 | https://mirrors.cqupt.edu.cn/docker-ce/ | |
@@ -21,8 +25,7 @@
 | 搜狐 | https://mirrors.sohu.com/docker-ce/ | |
 | 腾讯云 | https://mirrors.cloud.tencent.com/docker-ce/ | |
 
-
-## Docker Registry
+### DockerRegistry
 | 名称 | URL | 备注 |
 | -- | -- | -- |
 | 南京大学镜像 | https://doc.nju.edu.cn/books/35f4a/page/docker-hub | |
