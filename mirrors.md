@@ -36,6 +36,7 @@
 ### Binary
 | 名称 | URL | 备注 |
 | -- | -- | -- |
+| Apache | https://dlcdn.apache.org/maven/maven-3/ | 官网 |
 | 上海交通大学 | https://mirror.sjtu.edu.cn/apache/maven/maven-3/ | |
 | 清华大学 | https://mirrors.tuna.tsinghua.edu.cn/apache/maven/maven-3/ | |
 | 南阳理工学院 | https://mirror.nyist.edu.cn/apache/maven/maven-3/ | |
@@ -80,7 +81,9 @@
 ## nginx
 | 名称 | URL | 备注 |
 | -- | -- | -- |
+| nginx.org | https://nginx.org/download/ | 官网 |
 | 华为云 | https://mirrors.huaweicloud.com/nginx/ |  |
+| Fedora Project | https://src.fedoraproject.org/repo/pkgs/nginx/ | |
 
 ## git
 | 名称 | URL | 备注 |
