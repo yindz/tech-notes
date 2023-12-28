@@ -1,5 +1,6 @@
 # 开源镜像分类汇总
-[操作系统](#操作系统) | [Docker](#Docker) | [Maven](#Maven) | [OpenJDK](#OpenJDK) |
+## 索引
+[操作系统](#操作系统) | [Docker](#Docker) | [Maven](#Maven) | [OpenJDK](#OpenJDK) | [nginx](#nginx) | [Git](#git) | [Nodejs](#nodejs) | [python](#python)
 
 ## Docker
 ### DockerCE
@@ -61,11 +62,48 @@
 | npmmirror | https://npmmirror.com/ | |
 | 华为云 | https://mirrors.huaweicloud.com/repository/npm/ | |
 
+## nginx
+| 名称 | URL | 备注 |
+| -- | -- | -- |
+| 华为云 | https://mirrors.huaweicloud.com/nginx/ |  |
+
+## git
+| 名称 | URL | 备注 |
+| -- | -- | -- |
+| npmmirror | https://registry.npmmirror.com/binary.html?path=git-for-windows/ | Git for Windows |
+| 华为云 | https://mirrors.huaweicloud.com/git-for-windows/ | Git for Windows |
+| 华为云 | https://mirrors.huaweicloud.com/git-for-macos/ | Git for MacOS |
+| 华为云 | https://mirrors.huaweicloud.com/tortoisegit/ | tortoisegit |
+
+## nodejs
+| 名称 | URL | 备注 |
+| -- | -- | -- |
+| npmmirror | https://registry.npmmirror.com/binary.html?path=node/ | Nodejs |
+| 华为云 | https://mirrors.huaweicloud.com/nodejs/ | Nodejs |
+| 华为云 | https://mirrors.huaweicloud.com/node-sass/ | node-sass |
+
+## python
+### 安装包
+| 名称 | URL | 备注 |
+| -- | -- | -- |
+| npmmirror | https://registry.npmmirror.com/binary.html?path=python/ |  |
+| 华为云 | https://mirrors.huaweicloud.com/python/ |  |
+
+### pypi
+| 名称 | URL | 备注 |
+| -- | -- | -- |
+| 清华大学 | https://mirrors.tuna.tsinghua.edu.cn/help/pypi/ |  |
+| 浙江大学 | https://mirrors.zju.edu.cn/docs/pypi/ |  |
+| 中国科学技术大学 | https://mirrors.ustc.edu.cn/help/pypi.html |  |
+| 南京大学 | https://mirror.nju.edu.cn/mirrorz-help/pypi/?mirror=NJU |  |
+| 上海交通大学 | https://mirror.sjtu.edu.cn/docs/pypi/web/simple |  |
+| 网易云 | https://mirrors.163.com/.help/pypi.html |  |
+| 腾讯云 | https://mirrors.cloud.tencent.com/help/pypi.html |  |
+
 ## 操作系统
 ### CentOS
 | 名称 | URL | 备注 |
 | -- | -- | -- |
-| 上海交通大学 | https://mirror.sjtu.edu.cn/centos/ | |
 | 清华大学 | https://mirrors.tuna.tsinghua.edu.cn/centos/ | |
 | 重庆大学 | https://mirrors.cqu.edu.cn/centos/ | |
 | 浙江大学 | https://mirrors.zju.edu.cn/centos/ | |
