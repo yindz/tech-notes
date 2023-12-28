@@ -6,21 +6,28 @@
 | -- | -- | -- |
 | 重庆邮电大学 | https://mirrors.cqupt.edu.cn/docker-ce/ | |
 | 哈尔滨工业大学 | https://mirrors.hit.edu.cn/docker-ce/ | |
-| 网易 | https://mirrors.163.com/docker-ce/ | |
 | 上海交通大学 | https://mirror.sjtu.edu.cn/docker-ce/ | |
+| 北京大学 | https://mirrors.pku.edu.cn/docker-ce/ | |
 | 浙江大学 | https://mirrors.zju.edu.cn/docker-ce/ | |
 | 中国科学技术大学 | https://mirrors.ustc.edu.cn/docker-ce/ | |
 | 南方科技大学 | https://mirrors.sustech.edu.cn/docker-ce/ | |
 | 南京大学 | https://mirrors.nju.edu.cn/docker-ce/ | |
 | 南阳理工学院 | https://mirror.nyist.edu.cn/docker-ce/ | |
+| 清华大学 | https://mirrors.tuna.tsinghua.edu.cn/docker-ce/ | |
+| 北京邮电大学 | https://mirrors.bupt.edu.cn/docker-ce/ | |
+| 北京外国语大学 | https://mirrors.bfsu.edu.cn/docker-ce/ | |
 | 中科院软件所 | https://mirror.iscas.ac.cn/docker-ce/ | |
+| 网易 | https://mirrors.163.com/docker-ce/ | |
+| 搜狐 | https://mirrors.sohu.com/docker-ce/ | |
+| 腾讯云 | https://mirrors.cloud.tencent.com/docker-ce/ | |
+
 
 ## Docker Registry
 | 名称 | URL | 备注 |
 | -- | -- | -- |
 | 南京大学镜像 | https://doc.nju.edu.cn/books/35f4a/page/docker-hub | |
 | 网易云镜像 | https://hub-mirror.c.163.com | |
-| 上海交通大学镜像 | https://docker.mirrors.sjtug.sjtu.edu.cn | |
+| 上海交通大学镜像 | https://mirrors.sjtug.sjtu.edu.cn/docs/docker-registry | |
 | 中科院软件所镜像站 | https://mirror.iscas.ac.cn/mirror/docker.html | |
 
 ## Maven
@@ -53,3 +60,70 @@
 | 浙江大学 | https://mirrors.zju.edu.cn/docs/npm/ | |
 | npmmirror | https://npmmirror.com/ | |
 | 华为云 | https://mirrors.huaweicloud.com/repository/npm/ | |
+
+## 操作系统
+### CentOS
+| 名称 | URL | 备注 |
+| -- | -- | -- |
+| 上海交通大学 | https://mirror.sjtu.edu.cn/centos/ | |
+| 清华大学 | https://mirrors.tuna.tsinghua.edu.cn/centos/ | |
+| 重庆大学 | https://mirrors.cqu.edu.cn/centos/ | |
+| 浙江大学 | https://mirrors.zju.edu.cn/centos/ | |
+| 北京大学 | https://mirrors.pku.edu.cn/centos/ | |
+| 北京邮电大学 | https://mirrors.bupt.edu.cn/centos/ | |
+| 兰州大学 | https://mirrors.lzu.edu.cn/centos/ | |
+| 华南农业大学 | https://mirrors.scau.edu.cn/centos/ | |
+| 吉林大学 | https://mirrors.jlu.edu.cn/centos/ | |
+| 北京外国语大学 | https://mirrors.bfsu.edu.cn/centos/ | |
+| 大连东软信息学院 | https://mirrors.neusoft.edu.cn/centos/ | |
+| 哈尔滨工业大学 | https://mirrors.hit.edu.cn/centos/ | |
+| 重庆邮电大学 | https://mirrors.cqupt.edu.cn/centos/ | |
+| 中国科学技术大学 | https://mirrors.ustc.edu.cn/centos/ | |
+| 南方科技大学 | https://mirrors.sustech.edu.cn/centos/ | |
+| 南京大学 | https://mirrors.nju.edu.cn/centos/ | |
+| 南阳理工学院 | https://mirror.nyist.edu.cn/centos/ | |
+| 西北农林科技大学 | https://mirrors.nwafu.edu.cn/centos/ | |
+| 腾讯云 | https://mirrors.cloud.tencent.com/centos/ | |
+| 搜狐 | https://mirrors.sohu.com/centos/ | |
+| 网易云 | https://mirrors.163.com/centos/ | |
+| 华为云 | https://repo.huaweicloud.com/centos/ | |
+
+### Ubuntu
+| 名称 | URL | 备注 |
+| -- | -- | -- |
+| 上海交通大学 | https://mirror.sjtu.edu.cn/ubuntu/ | |
+| 清华大学 | https://mirrors.tuna.tsinghua.edu.cn/ubuntu/ | |
+| 重庆大学 | https://mirrors.cqu.edu.cn/ubuntu/ | |
+| 浙江大学 | https://mirrors.zju.edu.cn/ubuntu/ | |
+| 北京大学 | https://mirrors.pku.edu.cn/ubuntu/ | |
+| 北京邮电大学 | https://mirrors.bupt.edu.cn/ubuntu/ | |
+| 兰州大学 | https://mirrors.lzu.edu.cn/ubuntu/ | |
+| 华南农业大学 | https://mirrors.scau.edu.cn/ubuntu/ | |
+| 吉林大学 | https://mirrors.jlu.edu.cn/ubuntu/ | |
+| 北京外国语大学 | https://mirrors.bfsu.edu.cn/ubuntu/ | |
+| 大连东软信息学院 | https://mirrors.neusoft.edu.cn/ubuntu/ | |
+| 哈尔滨工业大学 | https://mirrors.hit.edu.cn/ubuntu/ | |
+| 重庆邮电大学 | https://mirrors.cqupt.edu.cn/ubuntu/ | |
+| 中国科学技术大学 | https://mirrors.ustc.edu.cn/ubuntu/ | |
+| 南方科技大学 | https://mirrors.sustech.edu.cn/ubuntu/ | |
+| 南京大学 | https://mirrors.nju.edu.cn/ubuntu/ | |
+| 南阳理工学院 | https://mirror.nyist.edu.cn/ubuntu/ | |
+| 西北农林科技大学 | https://mirrors.nwafu.edu.cn/ubuntu/ | |
+| 腾讯云 | https://mirrors.cloud.tencent.com/ubuntu/ | |
+| 搜狐 | https://mirrors.sohu.com/ubuntu/ | |
+| 网易云 | https://mirrors.163.com/ubuntu/ | |
+| 华为云 | https://repo.huaweicloud.com/ubuntu/ | |
+
+### openEuler
+| 名称 | URL | 备注 |
+| -- | -- | -- |
+| 上海交通大学 | https://mirror.sjtu.edu.cn/openeuler/ | |
+| 浙江大学 | https://mirrors.zju.edu.cn/openeuler/ | |
+| 重庆邮电大学 | https://mirrors.cqupt.edu.cn/openeuler/ | |
+| 南京大学 | https://mirrors.nju.edu.cn/openeuler/ | |
+| 清华大学 | https://mirrors.tuna.tsinghua.edu.cn/openeuler/ | |
+| 中科院软件所 | https://mirror.iscas.ac.cn/openeuler/ | |
+| 网易云 | https://mirrors.163.com/openeuler/ | |
+| 华为云 | https://mirrors.huaweicloud.com/openeuler/ | |
+
+
