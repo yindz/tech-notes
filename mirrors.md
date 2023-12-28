@@ -1,6 +1,6 @@
 # 开源镜像分类汇总
 ## 索引
-[操作系统](#操作系统) | [Docker](#Docker) | [Maven](#Maven) | [OpenJDK](#OpenJDK) | [nginx](#nginx) | [Git](#git) | [Nodejs](#nodejs) | [python](#python)
+[操作系统](#操作系统) | [Docker](#Docker) | [Maven](#Maven) | [OpenJDK](#OpenJDK) | [nginx](#nginx) | [Git](#git) | [Nodejs](#nodejs) | [python](#python) | [Jenkins](#jenkins)
 
 ## Docker
 ### DockerCE
@@ -19,6 +19,7 @@
 | 北京邮电大学 | https://mirrors.bupt.edu.cn/docker-ce/ | |
 | 北京外国语大学 | https://mirrors.bfsu.edu.cn/docker-ce/ | |
 | 中科院软件所 | https://mirror.iscas.ac.cn/docker-ce/ | |
+| 西安交通大学 | https://mirrors.xjtu.edu.cn/?mirrors=docker-ce%2F | |
 | 网易 | https://mirrors.163.com/docker-ce/ | |
 | 搜狐 | https://mirrors.sohu.com/docker-ce/ | |
 | 腾讯云 | https://mirrors.cloud.tencent.com/docker-ce/ | |
@@ -35,6 +36,13 @@
 ### Binary
 | 名称 | URL | 备注 |
 | -- | -- | -- |
+| 上海交通大学 | https://mirror.sjtu.edu.cn/apache/maven/maven-3/ | |
+| 清华大学 | https://mirrors.tuna.tsinghua.edu.cn/apache/maven/maven-3/ | |
+| 南阳理工学院 | https://mirror.nyist.edu.cn/apache/maven/maven-3/ | |
+| 吉林大学 | https://mirrors.jlu.edu.cn/apache/maven/maven-3/ | |
+| 中国科学技术大学 | https://mirrors.ustc.edu.cn/apache/maven/maven-3/ | |
+| 中科院软件所 | https://mirror.iscas.ac.cn/apache/maven/maven-3/ | |
+| 南京大学 | https://mirror.nju.edu.cn/apache/maven/maven-3/ | |
 | 阿里云 | https://mirrors.aliyun.com/apache/maven/maven-3/ | |
 | 华为云 | https://mirrors.huaweicloud.com/apache/maven/maven-3/ | |
 
@@ -104,9 +112,23 @@
 | 中国科学技术大学 | https://mirrors.ustc.edu.cn/help/pypi.html |  |
 | 南京大学 | https://mirror.nju.edu.cn/mirrorz-help/pypi/?mirror=NJU |  |
 | 上海交通大学 | https://mirror.sjtu.edu.cn/docs/pypi/web/simple |  |
+| 西安交通大学 | https://mirrors.xjtu.edu.cn/docs/pypi | |
 | 网易云 | https://mirrors.163.com/.help/pypi.html |  |
 | 腾讯云 | https://mirrors.cloud.tencent.com/help/pypi.html |  |
 | 阿里云 | https://developer.aliyun.com/mirror/pypi | |
+
+## jenkins
+| 名称 | URL | 备注 |
+| -- | -- | -- |
+| 清华大学 | https://mirrors.tuna.tsinghua.edu.cn/jenkins/ |  |
+| 西安交通大学 | https://mirrors.xjtu.edu.cn/?mirrors=jenkins%2F |  |
+| 南京大学 | https://mirrors.nju.edu.cn/jenkins/ | |
+| 南阳理工学院 | https://mirror.nyist.edu.cn/jenkins/ | |
+| 中国科学技术大学 | https://mirrors.ustc.edu.cn/jenkins/ | |
+| 中科院软件所 | https://mirror.iscas.ac.cn/jenkins/ | |
+| 华为云 | https://mirrors.huaweicloud.com/jenkins/ | |
+| 腾讯云 | https://mirrors.cloud.tencent.com/jenkins/ | |
+| 阿里云 | https://mirrors.aliyun.com/jenkins/ | |
 
 ## 操作系统
 ### CentOS
@@ -129,6 +151,7 @@
 | 南京大学 | https://mirrors.nju.edu.cn/centos/ | |
 | 南阳理工学院 | https://mirror.nyist.edu.cn/centos/ | |
 | 西北农林科技大学 | https://mirrors.nwafu.edu.cn/centos/ | |
+| 西安交通大学 | https://mirrors.xjtu.edu.cn/?mirrors=centos%2F | |
 | 腾讯云 | https://mirrors.cloud.tencent.com/centos/ | |
 | 搜狐 | https://mirrors.sohu.com/centos/ | |
 | 网易云 | https://mirrors.163.com/centos/ | |
@@ -155,6 +178,7 @@
 | 南京大学 | https://mirrors.nju.edu.cn/ubuntu/ | |
 | 南阳理工学院 | https://mirror.nyist.edu.cn/ubuntu/ | |
 | 西北农林科技大学 | https://mirrors.nwafu.edu.cn/ubuntu/ | |
+| 西安交通大学 | https://mirrors.xjtu.edu.cn/?mirrors=ubuntu%2F | |
 | 腾讯云 | https://mirrors.cloud.tencent.com/ubuntu/ | |
 | 搜狐 | https://mirrors.sohu.com/ubuntu/ | |
 | 网易云 | https://mirrors.163.com/ubuntu/ | |
