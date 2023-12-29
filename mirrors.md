@@ -28,7 +28,6 @@
 | 名称 | URL | 备注 |
 | -- | -- | -- |
 | 南京大学镜像 | https://doc.nju.edu.cn/books/35f4a/page/docker-hub | |
-| 网易云镜像 | https://hub-mirror.c.163.com | |
 | 上海交通大学镜像 | https://mirrors.sjtug.sjtu.edu.cn/docs/docker-registry | |
 | 中科院软件所镜像站 | https://mirror.iscas.ac.cn/mirror/docker.html | |
 
