@@ -193,13 +193,22 @@
 ### openEuler
 | 名称 | URL | 备注 |
 | -- | -- | -- |
+| openeuler | https://repo.openeuler.org/ | 官网 |
 | 上海交通大学 | https://mirror.sjtu.edu.cn/openeuler/ | |
 | 浙江大学 | https://mirrors.zju.edu.cn/openeuler/ | |
 | 重庆邮电大学 | https://mirrors.cqupt.edu.cn/openeuler/ | |
 | 南京大学 | https://mirrors.nju.edu.cn/openeuler/ | |
+| 北京大学 | https://mirrors.pku.edu.cn/openeuler/ | |
 | 清华大学 | https://mirrors.tuna.tsinghua.edu.cn/openeuler/ | |
+| 兰州大学 | https://mirror.lzu.edu.cn/openeuler/ | |
+| 哈尔滨工业大学 | https://mirrors.hit.edu.cn/openeuler/ | |
+| 西北农林科技大学 | https://mirrors.nwafu.edu.cn/openeuler/ | |
+| 中国科学技术大学 | https://mirrors.ustc.edu.cn/openeuler/ | |
+| 南阳理工学院 | https://mirror.nyist.edu.cn/openeuler/ | |
 | 中科院软件所 | https://mirror.iscas.ac.cn/openeuler/ | |
 | 网易云 | https://mirrors.163.com/openeuler/ | |
 | 华为云 | https://mirrors.huaweicloud.com/openeuler/ | |
+| 阿里云 | https://mirrors.aliyun.com/openeuler/ | |
+| 开放原子开源基金会 | https://repo.openeuler.openatom.cn/ | |
 
 
