@@ -1,6 +1,6 @@
 # 开源镜像分类汇总
 ## 索引
-[操作系统](#操作系统) : [CentOS](#Centos) | [CentOS](#CentOS) | [Ubuntu](#Ubuntu) | [openEuler](#openEuler) | [Anolis](#Anolis)
+[操作系统](#操作系统) : [CentOS](#Centos) | [CentOS](#CentOS) | [Ubuntu](#Ubuntu) | [openEuler](#openEuler) | [Anolis](#Anolis)  
 [Docker](#Docker) | [Maven](#Maven) | [OpenJDK](#OpenJDK) | [nginx](#nginx) | [Git](#git) | [Nodejs](#nodejs) | [python](#python) | [Jenkins](#jenkins)
 
 ## Docker
