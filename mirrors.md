@@ -12,7 +12,6 @@
 | 北京大学 | https://mirrors.pku.edu.cn/docker-ce/ | |
 | 浙江大学 | https://mirrors.zju.edu.cn/docker-ce/ | |
 | 中国科学技术大学 | https://mirrors.ustc.edu.cn/docker-ce/ | |
-| 南方科技大学 | https://mirrors.sustech.edu.cn/docker-ce/ | |
 | 南京大学 | https://mirrors.nju.edu.cn/docker-ce/ | |
 | 南阳理工学院 | https://mirror.nyist.edu.cn/docker-ce/ | |
 | 清华大学 | https://mirrors.tuna.tsinghua.edu.cn/docker-ce/ | |
@@ -20,6 +19,7 @@
 | 北京外国语大学 | https://mirrors.bfsu.edu.cn/docker-ce/ | |
 | 中科院软件所 | https://mirror.iscas.ac.cn/docker-ce/ | |
 | 西安交通大学 | https://mirrors.xjtu.edu.cn/?mirrors=docker-ce%2F | |
+| 齐鲁工业大学 | https://mirrors.qlu.edu.cn/help/docker-ce/ | |
 | 网易 | https://mirrors.163.com/docker-ce/ | |
 | 搜狐 | https://mirrors.sohu.com/docker-ce/ | |
 | 腾讯云 | https://mirrors.cloud.tencent.com/docker-ce/ | |
@@ -44,6 +44,7 @@
 | 中国科学技术大学 | https://mirrors.ustc.edu.cn/apache/maven/maven-3/ | |
 | 中科院软件所 | https://mirror.iscas.ac.cn/apache/maven/maven-3/ | |
 | 南京大学 | https://mirror.nju.edu.cn/apache/maven/maven-3/ | |
+| 荆楚理工学院 | https://mirrors.jcut.edu.cn/apache/maven/maven-3/ | |
 | 阿里云 | https://mirrors.aliyun.com/apache/maven/maven-3/ | |
 | 华为云 | https://mirrors.huaweicloud.com/apache/maven/maven-3/ | |
 
@@ -59,11 +60,12 @@
 | 名称 | URL | 备注 |
 | -- | -- | -- |
 | Adoptium官网 | https://adoptium.net/zh-CN/temurin/releases/ | 8、11、17、20、21 |
-| 清华大学镜像 | https://mirrors.tuna.tsinghua.edu.cn/Adoptium/ | 8、11、17、20、21 |
-| 中国科学技术大学镜像 | https://mirrors.ustc.edu.cn/adoptium/releases/ | 8、11、17、20、21 |
-| 南方科技大学镜像 | https://mirrors.sustech.edu.cn/Adoptium/ | 8、11、17、20、21 |
-| 南京大学镜像 | https://mirrors.nju.edu.cn/adoptium/ | 8、11、17、20、21 |
-| 南阳理工学院镜像 | https://mirror.nyist.edu.cn/Adoptium/ | 8、11、17、20、21 |
+| 清华大学 | https://mirrors.tuna.tsinghua.edu.cn/Adoptium/ | 8、11、17、20、21 |
+| 中国科学技术大学 | https://mirrors.ustc.edu.cn/adoptium/releases/ | 8、11、17、20、21 |
+| 南京大学 | https://mirrors.nju.edu.cn/adoptium/ | 8、11、17、20、21 |
+| 南阳理工学院 | https://mirror.nyist.edu.cn/Adoptium/ | 8、11、17、20、21 |
+| 荆楚理工学院 | https://mirrors.jcut.edu.cn/Adoptium/ | |
+| 沈阳航空航天大学 | https://mirrors.sau.edu.cn/Adoptium/ | |
 | 华为云镜像 | https://mirrors.huaweicloud.com/openjdk/ | 9、11、17、20、21，缺少 8 |
 | 微软定制版OpenJDK | https://learn.microsoft.com/zh-cn/java/openjdk/download | 8、11、17、20、21 |
 | 阿里定制版OpenJDK-Dragonwell | https://dragonwell-jdk.io/#/index | 8、11 |
@@ -116,6 +118,8 @@
 | 南京大学 | https://mirror.nju.edu.cn/mirrorz-help/pypi/?mirror=NJU |  |
 | 上海交通大学 | https://mirror.sjtu.edu.cn/docs/pypi/web/simple |  |
 | 西安交通大学 | https://mirrors.xjtu.edu.cn/docs/pypi | |
+| 南京工业大学 | https://mirrors.njtech.edu.cn/docs/pypi | |
+| 北京大学 | https://mirrors.pku.edu.cn/Help/Pypi | |
 | 网易云 | https://mirrors.163.com/.help/pypi.html |  |
 | 腾讯云 | https://mirrors.cloud.tencent.com/help/pypi.html |  |
 | 阿里云 | https://developer.aliyun.com/mirror/pypi | |
@@ -150,11 +154,11 @@
 | 哈尔滨工业大学 | https://mirrors.hit.edu.cn/centos/ | |
 | 重庆邮电大学 | https://mirrors.cqupt.edu.cn/centos/ | |
 | 中国科学技术大学 | https://mirrors.ustc.edu.cn/centos/ | |
-| 南方科技大学 | https://mirrors.sustech.edu.cn/centos/ | |
 | 南京大学 | https://mirrors.nju.edu.cn/centos/ | |
 | 南阳理工学院 | https://mirror.nyist.edu.cn/centos/ | |
 | 西北农林科技大学 | https://mirrors.nwafu.edu.cn/centos/ | |
 | 西安交通大学 | https://mirrors.xjtu.edu.cn/?mirrors=centos%2F | |
+| 荆楚理工学院 | https://mirrors.jcut.edu.cn/centos/ | |
 | 腾讯云 | https://mirrors.cloud.tencent.com/centos/ | |
 | 搜狐 | https://mirrors.sohu.com/centos/ | |
 | 网易云 | https://mirrors.163.com/centos/ | |
@@ -177,11 +181,11 @@
 | 哈尔滨工业大学 | https://mirrors.hit.edu.cn/ubuntu/ | |
 | 重庆邮电大学 | https://mirrors.cqupt.edu.cn/ubuntu/ | |
 | 中国科学技术大学 | https://mirrors.ustc.edu.cn/ubuntu/ | |
-| 南方科技大学 | https://mirrors.sustech.edu.cn/ubuntu/ | |
 | 南京大学 | https://mirrors.nju.edu.cn/ubuntu/ | |
 | 南阳理工学院 | https://mirror.nyist.edu.cn/ubuntu/ | |
 | 西北农林科技大学 | https://mirrors.nwafu.edu.cn/ubuntu/ | |
 | 西安交通大学 | https://mirrors.xjtu.edu.cn/?mirrors=ubuntu%2F | |
+| 荆楚理工学院 | https://mirrors.jcut.edu.cn/ubuntu/ | |
 | 腾讯云 | https://mirrors.cloud.tencent.com/ubuntu/ | |
 | 搜狐 | https://mirrors.sohu.com/ubuntu/ | |
 | 网易云 | https://mirrors.163.com/ubuntu/ | |
