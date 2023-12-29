@@ -1,6 +1,7 @@
 # 开源镜像分类汇总
 ## 索引
-[操作系统](#操作系统) | [Docker](#Docker) | [Maven](#Maven) | [OpenJDK](#OpenJDK) | [nginx](#nginx) | [Git](#git) | [Nodejs](#nodejs) | [python](#python) | [Jenkins](#jenkins)
+[操作系统](#操作系统) : [CentOS](#Centos) | [CentOS](#CentOS) | [Ubuntu](#Ubuntu) | [openEuler](#openEuler) | [Anolis](#Anolis)
+[Docker](#Docker) | [Maven](#Maven) | [OpenJDK](#OpenJDK) | [nginx](#nginx) | [Git](#git) | [Nodejs](#nodejs) | [python](#python) | [Jenkins](#jenkins)
 
 ## Docker
 ### DockerCE
@@ -211,4 +212,13 @@
 | 阿里云 | https://mirrors.aliyun.com/openeuler/ | |
 | 开放原子开源基金会 | https://repo.openeuler.openatom.cn/ | |
 
+### Anolis
+| 名称 | URL | 备注 |
+| -- | -- | -- |
+| openanolis | https://mirrors.openanolis.cn/anolis/ | 官网 |
+| 浙江大学 | https://mirrors.zju.edu.cn/anolis/ | |
+| 南京大学 | https://mirror.nju.edu.cn/anolis/ | |
+| 北京大学 | https://mirrors.pku.edu.cn/anolis | |
+| 西北农林科技大学 | https://mirrors.nwafu.edu.cn/anolis/ | |
+| 阿里云 | https://mirrors.aliyun.com/anolis/ | |
 
