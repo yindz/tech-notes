@@ -1,7 +1,7 @@
 # 开源镜像分类汇总
 ## 索引
 [操作系统](#操作系统) > [CentOS](#Centos) | [Ubuntu](#Ubuntu) | [openEuler](#openEuler) | [Anolis](#Anolis)  
-[Docker](#Docker) | [Maven](#Maven) | [OpenJDK](#OpenJDK) | [nginx](#nginx) | [Git](#git) | [Nodejs](#nodejs) | [python](#python) | [Jenkins](#jenkins)
+[Docker](#Docker) | [Maven](#Maven) | [OpenJDK](#OpenJDK) | [NPM](#NPM) | [nginx](#nginx) | [Git](#git) | [Nodejs](#nodejs) | [python](#python) | [Jenkins](#jenkins)
 
 ## Docker
 ### DockerCE
@@ -78,7 +78,6 @@
 | 阿里云 | ~~https://registry.npm.taobao.org/~~ | 已停用 |
 | 阿里云 | https://registry.npmmirror.com/ | |
 | 浙江大学 | https://mirrors.zju.edu.cn/docs/npm/ | |
-| npmmirror | https://npmmirror.com/ | |
 | 华为云 | https://mirrors.huaweicloud.com/repository/npm/ | |
 
 ## nginx
@@ -87,6 +86,7 @@
 | nginx.org | https://nginx.org/download/ | 官网 |
 | 华为云 | https://mirrors.huaweicloud.com/nginx/ |  |
 | Fedora Project | https://src.fedoraproject.org/repo/pkgs/nginx/ | |
+| nginx中文网 | https://nginx.p2hp.com/en/download.html | 非官方 |
 
 ## git
 | 名称 | URL | 备注 |
