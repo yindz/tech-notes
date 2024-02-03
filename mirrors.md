@@ -75,7 +75,8 @@
 ## NPM
 | 名称 | URL | 备注 |
 | -- | -- | -- |
-| 阿里云 | https://registry.npm.taobao.org/ | |
+| 阿里云 | ~~https://registry.npm.taobao.org/~~ | 已停用 |
+| 阿里云 | https://registry.npmmirror.com/ | |
 | 浙江大学 | https://mirrors.zju.edu.cn/docs/npm/ | |
 | npmmirror | https://npmmirror.com/ | |
 | 华为云 | https://mirrors.huaweicloud.com/repository/npm/ | |
