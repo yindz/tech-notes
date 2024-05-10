@@ -176,6 +176,7 @@
 | 北京邮电大学 | https://mirrors.bupt.edu.cn/ubuntu/ | |
 | 兰州大学 | https://mirrors.lzu.edu.cn/ubuntu/ | |
 | 华南农业大学 | https://mirrors.scau.edu.cn/ubuntu/ | |
+| 华中科技大学 | https://mirrors.hust.edu.cn/ubuntu/ | |
 | 吉林大学 | https://mirrors.jlu.edu.cn/ubuntu/ | |
 | 北京外国语大学 | https://mirrors.bfsu.edu.cn/ubuntu/ | |
 | 大连东软信息学院 | https://mirrors.neusoft.edu.cn/ubuntu/ | |
@@ -208,6 +209,7 @@
 | 中国科学技术大学 | https://mirrors.ustc.edu.cn/openeuler/ | |
 | 南阳理工学院 | https://mirror.nyist.edu.cn/openeuler/ | |
 | 中科院软件所 | https://mirror.iscas.ac.cn/openeuler/ | |
+| 华中科技大学 | https://mirrors.hust.edu.cn/openeuler/ | |
 | 网易云 | https://mirrors.163.com/openeuler/ | |
 | 华为云 | https://mirrors.huaweicloud.com/openeuler/ | |
 | 阿里云 | https://mirrors.aliyun.com/openeuler/ | |
@@ -221,5 +223,6 @@
 | 南京大学 | https://mirror.nju.edu.cn/anolis/ | |
 | 北京大学 | https://mirrors.pku.edu.cn/anolis | |
 | 西北农林科技大学 | https://mirrors.nwafu.edu.cn/anolis/ | |
+| 华中科技大学 | https://mirrors.hust.edu.cn/anolis/ | |
 | 阿里云 | https://mirrors.aliyun.com/anolis/ | |
 
