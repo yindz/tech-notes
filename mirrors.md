@@ -29,8 +29,8 @@
 | 名称 | URL | 备注 |
 | -- | -- | -- |
 | 南京大学镜像 | https://doc.nju.edu.cn/books/35f4a/page/docker-hub | |
-| 上海交通大学镜像 | ~~https://mirrors.sjtug.sjtu.edu.cn/docs/docker-registry~~ | 2024年6月下线 |
-| 中科院软件所镜像站 | https://mirror.iscas.ac.cn/mirror/docker.html | |
+| 上海交通大学镜像 | ~~https://mirrors.sjtug.sjtu.edu.cn/docs/docker-registry~~ | 已下线 |
+| 中科院软件所镜像站 | ~~https://mirror.iscas.ac.cn/mirror/docker.html~~ | 已下线 |
 
 ## Maven
 ### Binary
