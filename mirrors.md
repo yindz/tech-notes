@@ -28,7 +28,12 @@
 ### DockerRegistry
 | 名称 | URL | 备注 |
 | -- | -- | -- |
-| 南京大学镜像 | https://doc.nju.edu.cn/books/35f4a/page/docker-hub | |
+| daocloud | https://docker.m.daocloud.io | |
+| dockerpull | https://dockerpull.com/ |  |
+| awsl9527 | https://docker.awsl9527.cn/ | |
+| hpcloud | https://docker.hpcloud.cloud/ | |
+| anyhub | https://docker.anyhub.us.kg/ | |
+| 南京大学镜像 | ~~https://doc.nju.edu.cn/books/35f4a/page/docker-hub~~ | 已下线 |
 | 上海交通大学镜像 | ~~https://mirrors.sjtug.sjtu.edu.cn/docs/docker-registry~~ | 已下线 |
 | 中科院软件所镜像站 | ~~https://mirror.iscas.ac.cn/mirror/docker.html~~ | 已下线 |
 
